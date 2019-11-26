@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="strFirstName">First Name</string>
+    <string name="strLastName">Last Name</string>
+    <string name="strMobileNumber">Mobile Number</string>
+    <string name="strPassword">Password</string>
+    <string name="strEmailAddress">Email Address</string>
+    <string name="strRegister">Register</string>
+    <string name="strLogin">Login</string>
+    <string name="strPleaseEnterYourMobileNumber">Please enter your mobile number</string>
+    <string name="strPleaseEnterYourPassword">Please enter your password.</string>
+    <string name="strNotHaveAnAccount">Not have an account !! Sign Up here</string>
+    <string name="strWelcome">Welcome</string>
+    <string name="strEnterFirstName">Please enter your first name.</string>
+    <string name="strEnterLastName">Please enter your last name.</string>
+    <string name="strEnterMobileNumber">Please enter your mobile number.</string>
+    <string name="strEnterPassword">Please enter your password.</string>
+    <string name="strEnterEmailAddress">Please enter your email address</string>
+    <string name="strValidEmail">Please enter valid email.</string>
+</resources>
